@@ -253,7 +253,7 @@ class game:
   @staticmethod
   def mid(win,lvl): #interface between 2 lvls
     if player.level<=lvl and win is True:
-      player.level=level+1
+      player.level+=1
     choice = Prompt.ask('''
     [1] continue game
     [2] go back to main menu
