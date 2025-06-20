@@ -888,7 +888,7 @@ Developed by:
           input("\npress enter to exit")
           clear()
       elif choice =="x" or choice=="X":
-          #con.commit()
+          con.commit()
           exit_animation()        
       else:
           print_slow("\nInvalid choice. Please try again.")
