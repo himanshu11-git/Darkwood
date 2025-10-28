@@ -4,4 +4,4 @@ I made this with my friend Piyush @piyush08812
 
 # Darkwood DEMO
 This is a CLI based game made by using Python and MySQL
-(This version might have some issues while running)
+(This version might have some run-time issues)
